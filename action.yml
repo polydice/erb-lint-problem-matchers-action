@@ -1,0 +1,8 @@
+name: ERB Lint Problem Matchers
+description: Setup Problem Matchers for ERB Lint.
+runs:
+  using: node12
+  main: index.js
+branding:
+  color: red
+  icon: list
